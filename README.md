@@ -21,11 +21,12 @@ Um aplicativo desktop moderno e intuitivo para ajudar você a gerenciar suas fin
 
 Se você só quer usar o aplicativo e gerenciar suas finanças sem se preocupar com código ou instalações complexas:
 
-1.  **Baixe o Instalador:**
-    * Vá para a seção **[Releases](https://github.com/SeuUsuario/NomeDoSeuRepositorio/releases)** deste repositório no GitHub.
-    * Baixe o arquivo de instalação (`Simulador de Orçamento Vibe Setup 0.1.0.exe` ou a versão mais recente disponível).
+1.  **Baixe o Instalador (.exe):**
+    * Como o arquivo `.exe` é grande, ele está hospedado no Google Drive.
+    * Faça o download do instalador **[clicando neste link](https://drive.google.com/drive/folders/1Kkfj1M--VtgA8Fv1nRJH5oK1qwGH3R01?usp=sharing)**.
+    * (Recomendado: Crie uma pasta específica no seu Google Drive para hospedar releases de projetos e coloque o arquivo `.exe` lá, compartilhando apenas essa pasta ou o arquivo individualmente. Assim, ele fica organizado e separado da sua biblioteca pessoal.)
 2.  **Instale o Aplicativo:**
-    * Execute o instalador baixado e siga as instruções na tela.
+    * Após o download, execute o instalador e siga as instruções na tela.
     * **Permissões:** Geralmente, a instalação e o uso em pastas pessoais não exigem permissões de administrador.
 3.  **Comece a Gerenciar suas Finanças!**
     * O aplicativo criará automaticamente um arquivo de banco de dados (`dados_orcamento.db`) na pasta onde for instalado para salvar suas informações de forma segura.
@@ -178,6 +179,13 @@ Para gerar o instalador `.exe` para Windows:
 
 Para ter acesso a todos os arquivos do projeto, incluindo as pastas de dependências (`node_modules`, `venv_backend`, etc.) e os resultados da compilação, você pode baixar o pacote completo aqui:
 
-* **[Download do Projeto Completo](https://drive.google.com/drive/folders/1DSkwakbr97RamUkOjeAS5Z9v7xkTHIju?usp=sharing)**
+* **[Download do Código Fonte para Desenvolvedores (Google Drive)](https://drive.google.com/drive/folders/1DSkwakbr97RamUkOjeAS5Z9v7xkTHIju?usp=sharing)**
 
+## ⬇️ Download do Aplicativo Instalável (.exe)
+
+Para baixar apenas o instalador do aplicativo para Windows:
+
+* **[Download do Instalador (.exe) (Google Drive)](https://drive.google.com/drive/folders/1Kkfj1M--VtgA8Fv1nRJH5oK1qwGH3R01?usp=sharing)**
+
+---
 código por **Meloww**
